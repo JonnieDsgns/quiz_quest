@@ -1,0 +1,15 @@
+[
+  {
+    "museumName": "Historisches Burgmuseum Burgenthal",
+    "questTitle": "Von Rittern und Königen",
+    "imageUrl": "https://cdn.pixabay.com/photo/2022/01/03/01/00/ruins-6911495_960_720.jpg",
+    "mapExteriorFile": "tiled/museum_a_map.json",
+    "questionFilePath": "assets/data/quizData/quiz_data_burgenthal.json",
+    "description": "Das Historische Burgmuseum Burgenthal entführt seine Besucher in die faszinierende Welt des Mittelalters. In den beeindruckenden Mauern der historischen Burganlage erwacht die Zeit der Ritter, Könige und Burgherren zu neuem Leben. Die Ausstellung umfasst eine Vielzahl von Themen rund um das mittelalterliche Leben, von der Architektur und Verteidigungstechnik bis hin zu den Sitten und Bräuchen der damaligen Gesellschaft.\n\nEin Höhepunkt der Ausstellung ist die Sammlung mittelalterlicher Rüstungen und Waffen. Hier können Besucher die Entwicklung der Ritterrüstung nachvollziehen und mehr über die Kampftechniken erfahren, die auf den Schlachtfeldern des Mittelalters zum Einsatz kamen. Eindrucksvolle Schwerter, Schilde und Lanzen veranschaulichen die kriegerischen Auseinandersetzungen jener Zeit.\n\nNeben der militärischen Geschichte bietet das Museum spannende Einblicke in das alltägliche Leben auf der Burg. Authentisch eingerichtete Räume wie die große Rittersaal, die Burgküche und die Schlafgemächer der Adligen lassen erahnen, wie das Leben hinter den dicken Mauern ablief. Besucher können erfahren, welche Speisen auf den Tafeln der Adligen serviert wurden und mit welchen Herausforderungen das einfache Volk zu kämpfen hatte.\n\nAuch die Rolle der Frauen im Mittelalter wird thematisiert: Während Adelige Damen oft repräsentative Aufgaben übernahmen, waren Burgfräulein und Dienerinnen für das alltägliche Leben auf der Burg unerlässlich. Ein interaktiver Bereich erlaubt es Besuchern, sich in historische Gewänder zu kleiden und sich für einen Moment wie ein echter Ritter oder eine Edeldame zu fühlen.\n\nFür Kinder und Familien gibt es zahlreiche Mitmach-Stationen, an denen mittelalterliches Handwerk ausprobiert werden kann, vom Schmieden bis hin zur Kunst des Bogenschießens. Regelmäßig finden Ritterspiele, Mittelaltermärkte und lebendige Führungen mit Darstellern in historischen Gewändern statt, die das Burgleben hautnah erlebbar machen.\n\nOb Geschichtsliebhaber, Familien oder Schulklassen – das Historische Burgmuseum Burgenthal lädt dazu ein, die Faszination des Mittelalters hautnah zu erleben!",
+    "city": "Burgenthal",
+    "address": "Burgstraße 5, 96325 Burgenthal",
+    "webURL": "https://www.burgmuseum-burgenthal.de",
+    "phone": "+49 9263 876543",
+    "mail": "info@burgmuseum-burgenthal.de"
+  }
+]

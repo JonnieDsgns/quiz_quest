@@ -1,0 +1,314 @@
+[
+    {
+        "questionID": "q1",
+        "questionTypeId": "singleAnswer",
+        "question": "Welche Froschart kann im Winter einfrieren und im Frühling wieder auftauen?",
+        "correctAnswer": "Holzfrosch",
+        "incorrectAnswers": [
+            "Laubfrosch",
+            "Ochsenfrosch",
+            "Baumfrosch"
+        ],
+        "score": 10
+    },
+    {
+        "questionID": "q2",
+        "questionTypeId": "singleAnswer",
+        "question": "Was ist die Hauptnahrungsquelle von Kaulquappen?",
+        "correctAnswer": "Algen",
+        "incorrectAnswers": [
+        "Kleine Insekten",
+        "Blätter",
+        "Wasserflöhe"
+        ],
+        "score": 10
+    },
+    {
+        "questionID": "q3",
+        "questionTypeId": "singleAnswer",
+        "question": "Welches Element ist für die grüne Farbe von Pflanzen verantwortlich?",
+        "correctAnswer": "Chlorophyll",
+        "incorrectAnswers": [
+        "Hämoglobin",
+        "Carotin",
+        "Melanin"
+        ],
+        "score": 10
+    },
+    {
+        "questionID": "q4",
+        "questionTypeId": "singleAnswer",
+        "question": "Wie nennt man die durchsichtige Außenhaut, die Insekten als Schutz haben?",
+        "correctAnswer": "Chitinpanzer",
+        "incorrectAnswers": [
+        "Exoskelett",
+        "Hornhaut",
+        "Panzerhaut"
+        ],
+        "score": 10
+    },
+    {
+        "questionID": "q5",
+        "questionTypeId": "singleAnswer",
+        "question": "Welches ist die größte Käferart der Welt?",
+        "correctAnswer": "Herkuleskäfer",
+        "incorrectAnswers": [
+        "Maikäfer",
+        "Nashornkäfer",
+        "Goliathkäfer"
+        ],
+        "score": 10
+    },
+    {
+        "questionID": "q6",
+        "questionTypeId": "singleAnswer",
+        "question": "Wie nennt man die Verwandlung eines Insekts von der Larve zum erwachsenen Tier?",
+        "correctAnswer": "Metamorphose",
+        "incorrectAnswers": [
+        "Mitosis",
+        "Morphologie",
+        "Regeneration"
+        ],
+        "score": 10
+    },
+    {
+        "questionID": "q7",
+        "questionTypeId": "singleAnswer",
+        "question": "Welcher Schmetterling legt jedes Jahr Tausende Kilometer auf seiner Wanderung zurück?",
+        "correctAnswer": "Monarchfalter",
+        "incorrectAnswers": [
+        "Tagpfauenauge",
+        "Admiral",
+        "Zitronenfalter"
+        ],
+        "score": 10
+    },
+    {
+        "questionID": "q8",
+        "questionTypeId": "singleAnswer",
+        "question": "Wie nennt man die Wissenschaft, die sich mit Fossilien beschäftigt?",
+        "correctAnswer": "Paläontologie",
+        "incorrectAnswers": [
+        "Archäologie",
+        "Anthropologie",
+        "Geologie"
+        ],
+        "score": 10
+    },
+    {
+        "questionID": "q9",
+        "questionTypeId": "singleAnswer",
+        "question": "Welcher Dinosaurier hatte drei Hörner auf dem Kopf?",
+        "correctAnswer": "Triceratops",
+        "incorrectAnswers": [
+        "Stegosaurus",
+        "Velociraptor",
+        "Brachiosaurus"
+        ],
+        "score": 10
+    },
+    {
+        "questionID": "q10",
+        "questionTypeId": "singleAnswer",
+        "question": "Was versteht man unter einem Massenaussterben?",
+        "correctAnswer": "Das plötzliche Verschwinden vieler Arten in kurzer Zeit",
+        "incorrectAnswers": [
+        "Die Anpassung von Arten an neue Lebensräume",
+        "Die natürliche Evolution neuer Arten",
+        "Die gezielte Züchtung von Arten"
+        ],
+        "score": 10
+    },
+    {
+        "questionID": "q11",
+        "questionTypeId": "singleAnswer",
+        "question": "Welcher Künstler schuf das Gemälde 'Via Toscanella' im Jahr 1922?",
+        "correctAnswer": "Ottone Rosai",
+        "incorrectAnswers": [
+        "Giorgio de Chirico",
+        "Amedeo Modigliani",
+        "Felix Vallotton"
+        ],
+        "score": 10
+    },
+    {
+        "questionID": "q12",
+        "questionTypeId": "singleAnswer",
+        "question": "Welcher japanische Künstler schuf 'Die große Welle von Kanagawa'?",
+        "correctAnswer": "Katsushika Hokusai",
+        "incorrectAnswers": [
+        "Utagawa Hiroshige",
+        "Takashi Murakami",
+        "Yayoi Kusama"
+        ],
+        "score": 10
+    },
+    {
+        "questionID": "q13",
+        "questionTypeId": "singleAnswer",
+        "question": "Warum war Édouard Manets Gemälde 'Frühstück im Grünen' (1863) zur Zeit seiner Entstehung skandalös?",
+        "correctAnswer": "Wegen der Darstellung einer nackten Frau neben vollständig bekleideten Männern",
+        "incorrectAnswers": [
+        "Weil es eine religiöse Szene zeigte",
+        "Weil es eine politische Botschaft enthielt",
+        "Weil es nur mit Schwarz-Weiß-Farben gemalt wurde"
+        ],
+        "score": 10
+    },
+    {
+        "questionID": "q14",
+        "questionTypeId": "singleAnswer",
+        "question": "Welche Kunstrichtung ist für den Einsatz kräftiger Farben und abstrakter Formen bekannt?",
+        "correctAnswer": "Expressionismus",
+        "incorrectAnswers": [
+        "Realismus",
+        "Klassizismus",
+        "Dadaismus"
+        ],
+        "score": 10
+    },
+    {
+        "questionID": "q15",
+        "questionTypeId": "singleAnswer",
+        "question": "Welcher französische Maler gilt als einer der Begründer des Impressionismus?",
+        "correctAnswer": "Claude Monet",
+        "incorrectAnswers": [
+        "Edgar Degas",
+        "Paul Cézanne",
+        "Henri Matisse"
+        ],
+        "score": 10
+    },
+    {
+        "questionID": "q16",
+        "questionTypeId": "singleAnswer",
+        "question": "Welcher Künstler schuf das berühmte Gemälde 'Der Schrei'?",
+        "correctAnswer": "Edvard Munch",
+        "incorrectAnswers": [
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Claude Monet"
+        ],
+        "score": 10
+    },
+    {
+        "questionID": "q17",
+        "questionTypeId": "singleAnswer",
+        "question": "Welcher Künstler malte das berühmte Gemälde 'Sternennacht'?",
+        "correctAnswer": "Vincent van Gogh",
+        "incorrectAnswers": [
+        "Claude Monet",
+        "Paul Cézanne",
+        "Edvard Munch"
+        ],
+        "score": 10
+    },
+    {
+        "questionID": "q18",
+        "questionTypeId": "singleAnswer",
+        "question": "Welches Kunstwerk wird oft als das berühmteste Gemälde der Welt bezeichnet?",
+        "correctAnswer": "Mona Lisa",
+        "incorrectAnswers": [
+        "Die Geburt der Venus",
+        "Das letzte Abendmahl",
+        "Sternennacht"
+        ],
+        "score": 10
+    },
+    {
+        "questionID": "q19",
+        "questionTypeId": "singleAnswer",
+        "question": "Welches der folgenden Materialien wurde häufig für die Herstellung von Werkzeugen in der Altsteinzeit verwendet?",
+        "correctAnswer": "Feuerstein",
+        "incorrectAnswers": [
+        "Bronze",
+        "Eisen",
+        "Gold"
+        ],
+        "score": 10
+    },
+    {
+        "questionID": "q20",
+        "questionTypeId": "singleAnswer",
+        "question": "Welches Metall war namensgebend für eine bedeutende Epoche der Menschheitsgeschichte?",
+        "correctAnswer": "Bronze",
+        "incorrectAnswers": [
+        "Eisen",
+        "Gold",
+        "Silber"
+        ],
+        "score": 10
+    },
+    {
+        "questionID": "q21",
+        "questionTypeId": "singleAnswer",
+        "question": "Welche antike Kultur ist für die Herstellung von kunstvollen goldenen Vasen und Pokalen berühmt?",
+        "correctAnswer": "Die Etrusker",
+        "incorrectAnswers": [
+        "Die Römer",
+        "Die Griechen",
+        "Die Ägypter"
+        ],
+        "score": 10
+    },
+    {
+        "questionID": "q22",
+        "questionTypeId": "singleAnswer",
+        "question": "Welche antiken Vasen sind für ihre detailreichen Darstellungen von Göttern und Kriegszenen bekannt?",
+        "correctAnswer": "Griechische Schwarzfigurenvasen",
+        "incorrectAnswers": [
+        "Römische Glasvasen",
+        "Ägyptische Keramiken",
+        "Mesopotamische Steintöpfe"
+        ],
+        "score": 10
+    },
+    {
+        "questionID": "q23",
+        "questionTypeId": "singleAnswer",
+        "question": "Was ist ein Keilschrifttext?",
+        "correctAnswer": "Eine alte Schriftform aus Mesopotamien",
+        "incorrectAnswers": [
+        "Ein ägyptischer Hieroglyphentext",
+        "Eine mittelalterliche Handschrift",
+        "Ein japanisches Schriftzeichen"
+        ],
+        "score": 10
+    },
+    {
+        "questionID": "q24",
+        "questionTypeId": "singleAnswer",
+        "question": "Welche antike Zivilisation schuf die berühmten goldenen Münzen namens 'Denare'?",
+        "correctAnswer": "Rom",
+        "incorrectAnswers": [
+        "Griechenland",
+        "Karthago",
+        "Lydien"
+        ],
+        "score": 10
+    },
+    {
+        "questionID": "q25",
+        "questionTypeId": "singleAnswer",
+        "question": "Welche antike Zivilisation ist besonders für ihre goldenen Figuren und Schätze bekannt?",
+        "correctAnswer": "Die Inka",
+        "incorrectAnswers": [
+        "Die Ägypter",
+        "Die Römer",
+        "Die Griechen"
+        ],
+        "score": 10
+    },
+    {
+        "questionID": "q26",
+        "questionTypeId": "singleAnswer",
+        "question": "Wo wurde die berühmte Terrakotta-Armee entdeckt?",
+        "correctAnswer": "China",
+        "incorrectAnswers": [
+        "Griechenland",
+        "Ägypten",
+        "Mexiko"
+        ],
+        "score": 10
+    }
+]

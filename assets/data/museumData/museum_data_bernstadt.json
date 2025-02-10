@@ -1,0 +1,15 @@
+[
+  {
+    "museumName": "Bernstädter Museum",
+    "questTitle": "Leben im 18. Jahrhundert",
+    "imageUrl": "https://cdn.pixabay.com/photo/2016/08/03/15/21/kitchen-1566967_960_720.jpg",
+    "mapExteriorFile": "tiled/museum_a_map.json",
+    "questionFilePath": "assets/data/quizData/quiz_data_bernstadt.json",
+    "description": "Das Bernstädter Museum bietet eine faszinierende Zeitreise in das 18. Jahrhundert und gewährt tiefgehende Einblicke in das Alltagsleben vergangener Jahrhunderte. Die Ausstellungen konzentrieren sich auf verschiedene Aspekte des damaligen Lebens, darunter Handwerk, Wohnen, Mode und gesellschaftliche Strukturen.\n\nEin besonderes Highlight ist die detailgetreue Rekonstruktion historischer Wohnräume, die das häusliche Leben der Menschen jener Zeit greifbar machen. Besucher können durch originalgetreue Küchen, Werkstätten und Wohnstuben schlendern und dabei erleben, wie die Menschen im 18. Jahrhundert gekocht, gearbeitet und ihren Alltag gestaltet haben.\n\nDie Handwerksabteilung beleuchtet traditionelle Berufe und Fertigungstechniken jener Zeit. Schmiede-, Weber- und Schreinerwerkstätten zeigen anschaulich, mit welchen Methoden und Werkzeugen gearbeitet wurde. Interaktive Stationen laden dazu ein, selbst Hand anzulegen und beispielsweise das Spinnen oder das Schnitzen auszuprobieren.\n\nAuch die Modewelt des 18. Jahrhunderts kommt nicht zu kurz: Eine Sammlung historischer Gewänder und Accessoires zeigt, welche Kleidung verschiedene Gesellschaftsschichten trugen und wie sich Mode im Laufe der Jahrzehnte veränderte. Besucher erfahren hier auch, welche Materialien und Färbetechniken verwendet wurden.\n\nDas Museum bietet außerdem spannende Sonderausstellungen, thematische Führungen und Mitmachangebote für Jung und Alt. Besonders für Schulklassen gibt es pädagogisch wertvolle Programme, die Geschichte auf anschauliche Weise vermitteln und zum Mitmachen anregen. Ob Geschichtsliebhaber, Familien oder Schulklassen – das Bernstädter Museum lädt dazu ein, das 18. Jahrhundert hautnah zu erleben!",
+    "city": "Bernstadt",
+    "address": "Historische Gasse 7, 89182 Bernstadt",
+    "webURL": "https://www.bernstadt-museum.de",
+    "phone": "+49 7348 987654",
+    "mail": "info@bernstadt-museum.de"
+  }
+]

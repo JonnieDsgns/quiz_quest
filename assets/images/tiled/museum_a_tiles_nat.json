@@ -1,0 +1,14 @@
+{ "columns":25,
+ "image":"museum_a_map_nat.png",
+ "imageheight":960,
+ "imagewidth":800,
+ "margin":0,
+ "name":"museum_a_tiles_nat",
+ "spacing":0,
+ "tilecount":750,
+ "tiledversion":"1.11.2",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.10"
+}

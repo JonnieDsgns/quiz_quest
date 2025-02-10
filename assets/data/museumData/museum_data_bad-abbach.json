@@ -1,0 +1,18 @@
+[
+  {
+    "museumName": "Museum Bad Abbach",
+    "questTitle": "Bad Abbach Museumstour",
+    "imageUrl": "https://cdn.pixabay.com/photo/2019/07/03/09/41/national-history-museum-4314035_960_720.jpg",
+    "mapExterior": "https://raw.githubusercontent.com/JonnieDsgns/data_quiz_quest/refs/heads/master/tiled/museum_a_map_exterior.json",
+    "mapInterior1": "tiled/museum_a_map_nat.json",
+    "mapInterior2": "tiled/museum_a_map_art.json",
+    "mapInterior3": "tiled/museum_a_map_arch.json",
+    "questionFilePath": "assets/data/quizData/quiz_data_bad-abbach.json",
+    "description": "Das Museum Bad Abbach lädt Besucher auf eine spannende Entdeckungsreise durch die Welt der Naturkunde, Kunstgeschichte und Archäologie ein. In drei thematisch gestalteten Abteilungen bietet das Museum faszinierende Einblicke in verschiedene Wissenschaftsbereiche und Epochen. \n\nDie naturkundliche Abteilung zeigt die beeindruckende Vielfalt der regionalen Flora und Fauna. Anhand interaktiver Exponate und seltener Sammlungsstücke erfahren Besucher mehr über die geologischen Besonderheiten der Region, die Tierwelt vergangener Zeiten und die Auswirkungen des Klimawandels auf die Natur.\n\nDie kunstgeschichtliche Abteilung widmet sich der Entwicklung der bildenden Künste mit einem besonderen Fokus auf Werke bedeutender Künstler und Kunstströmungen. Hier können Besucher originale Gemälde, Skulpturen und kunsthandwerkliche Meisterwerke bewundern, die nicht nur ästhetische, sondern auch historische Bedeutung haben. Ergänzend dazu werden regelmäßig Sonderausstellungen organisiert, die neue Perspektiven auf verschiedene Kunstepochen eröffnen.\n\nIn der archäologischen Abteilung tauchen Besucher in die Welt vergangener Kulturen ein. Zahlreiche Fundstücke aus unterschiedlichen Epochen erzählen von der Besiedlungsgeschichte der Region und weit darüber hinaus. Von prähistorischen Werkzeugen über römische Artefakte bis hin zu mittelalterlichen Relikten – diese Abteilung bietet spannende Einblicke in das Leben und die Errungenschaften früherer Gesellschaften.\n\nDas Museum legt großen Wert auf interaktive Erlebnisse und bietet zahlreiche Mitmach-Stationen, digitale Medien und Führungen für alle Altersgruppen. Besonders für Familien und Schulklassen gibt es speziell konzipierte Programme, die Geschichte und Wissenschaft lebendig werden lassen. Ob als Wissensdurstige, Kunstliebhaber oder Geschichtsinteressierte – im Museum Bad Abbach gibt es für jeden etwas zu entdecken!",
+    "city": "Bad Abbach",
+    "address": "Musterstraße 12, 93077 Bad Abbach",
+    "webURL": "https://www.museum-badabbach.de",
+    "phone": "+49 9405 123456",
+    "mail": "info@museum-badabbach.de"
+  }
+]

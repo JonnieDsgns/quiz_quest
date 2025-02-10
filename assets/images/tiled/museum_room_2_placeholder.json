@@ -1,0 +1,14 @@
+{ "columns":17,
+ "image":"museum_room_2_placeholder.png",
+ "imageheight":672,
+ "imagewidth":544,
+ "margin":0,
+ "name":"museum_room_2_placeholder",
+ "spacing":0,
+ "tilecount":357,
+ "tiledversion":"1.11.2",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.10"
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "museumName": "Kunstmuseum Neuburg",
+    "questTitle": "Kunst im Laufe der Zeit",
+    "imageUrl": "https://cdn.pixabay.com/photo/2016/11/13/21/46/vienna-1822138_960_720.jpg",
+    "mapExteriorFile": "tiled/museum_a_map.json",
+    "questionFilePath": "assets/data/quizData/quiz_data_neuburg.json",
+    "description": "Das Kunstmuseum Neuburg ist ein Ort der Inspiration, Kreativität und kulturellen Vielfalt. Die umfangreiche Sammlung umfasst Werke aus verschiedenen Kunstepochen, von der Antike über die Renaissance bis hin zur modernen und zeitgenössischen Kunst. Mit seinen wechselnden Ausstellungen, interaktiven Bereichen und kunsthistorischen Führungen bietet das Museum ein einzigartiges Erlebnis für Kunstliebhaber jeden Alters.\n\nDie Dauerausstellung nimmt Besucher mit auf eine Reise durch die Geschichte der Kunst. Meisterwerke der alten Meister, eindrucksvolle Skulpturen und bedeutende Werke des Impressionismus, Expressionismus und der abstrakten Kunst laden dazu ein, sich mit den unterschiedlichen Stilrichtungen und Techniken auseinanderzusetzen. Neben bekannten Künstlern werden auch regionale Talente präsentiert, die das kulturelle Erbe Neuburgs und der Umgebung bereichern.\n\nEin besonderes Highlight des Museums ist die Abteilung für zeitgenössische Kunst, in der regelmäßig Werke moderner Künstler ausgestellt werden. Hier werden aktuelle gesellschaftliche Themen durch verschiedene Kunstformen wie Malerei, Fotografie, digitale Kunst und Installationen reflektiert. Kunstinteressierte haben zudem die Möglichkeit, mit Künstlern in Dialog zu treten und an Workshops teilzunehmen, die verschiedene Techniken und Ausdrucksformen näherbringen.\n\nInteraktive Stationen laden dazu ein, selbst kreativ zu werden: Ob Zeichnen, digitale Kunst oder experimentelles Gestalten – das Museum fördert die aktive Auseinandersetzung mit Kunst. Besonders für Kinder und Familien gibt es spezielle Programme, die spielerisch an Kunst und Kultur heranführen.\n\nRegelmäßig stattfindende Sonderausstellungen, Vorträge und Führungen sorgen dafür, dass es im Kunstmuseum Neuburg immer Neues zu entdecken gibt. Ob erfahrene Kunstkenner oder neugierige Besucher – das Museum lädt dazu ein, die Welt der Kunst in all ihren Facetten zu erleben und zu genießen.",
+    "city": "Neuburg",
+    "address": "Kunstgasse 10, 86633 Neuburg",
+    "webURL": "https://www.kunstmuseum-neuburg.de",
+    "phone": "+49 8431 765432",
+    "mail": "info@kunstmuseum-neuburg.de"
+  }
+]
