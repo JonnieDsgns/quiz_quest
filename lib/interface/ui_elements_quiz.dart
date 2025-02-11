@@ -126,7 +126,7 @@ class ScoreWidget extends StatelessWidget {
                       fit: BoxFit.contain,
                     ),
                   Padding(
-                  padding: const EdgeInsets.only(left: 120, top: 14),
+                  padding: const EdgeInsets.only(left: 120, top: 11),
                     child: Text(
                       '${controller.score}',   
                       style: const TextStyle(
@@ -135,6 +135,7 @@ class ScoreWidget extends StatelessWidget {
                         fontFamily: 'Pixel',
                         decoration: TextDecoration.none,
                       ),
+                      textAlign: TextAlign.left,
                     ),
                   ),
                 ],

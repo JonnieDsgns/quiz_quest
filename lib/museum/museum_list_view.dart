@@ -69,7 +69,7 @@ class MuseumListViewState extends State<MuseumListView> {
                           crossAxisAlignment: CrossAxisAlignment.stretch,
                           children: [
                             Image.network(
-                              item.imageUrl, height: 350, fit: BoxFit.cover,),
+                              item.imageUrl, height: 350, fit: BoxFit.cover, ),
                             ListTile(
                               minTileHeight: 70,
                               title: Text(item.museumName), // Der Titel des Items ist durch die beigefügte .json-Datei vorgegeben.

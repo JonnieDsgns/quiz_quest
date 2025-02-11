@@ -72,7 +72,6 @@ class GameState extends State<Game> {
                     ),
                   ],
                   map: map.map,
-                  showCollisionArea:true,
                   cameraConfig: CameraConfig(
                     zoom: getZoomFromMaxVisibleTile(context, 32, 20),
                     moveOnlyMapArea: true,

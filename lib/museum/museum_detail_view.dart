@@ -38,14 +38,19 @@ class MuseumDetailView extends StatelessWidget {
             title: item.museumName,
             subtitle: item.questTitle,
           ),
-          InfoSection(
-            description: item.description, 
-            museumName: item.museumName, 
-            city: item.city, 
-            address: item.address, 
-            webURL: item.webURL, 
-            phone: item.phone, 
-            mail: item.mail)
+          Expanded(
+            child: SingleChildScrollView(
+              child: InfoSection(
+                description: item.description, 
+                museumName: item.museumName, 
+                city: item.city, 
+                address: item.address, 
+                webURL: item.webURL, 
+                phone: item.phone, 
+                mail: item.mail,
+              ),
+            ),
+          ),
         ],
       ),
       floatingActionButton: FloatingActionButton( // Button, um das Spiel zu starten

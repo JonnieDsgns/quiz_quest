@@ -12,8 +12,7 @@ class TitleSection extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) { // Definiert die Sektion unter dem Bild der Detailseite eines Museums, beinhaltet Museumsname, QuestTitel
-    return Expanded(
-      child: Padding(
+    return Padding(
         padding: const EdgeInsets.all(20.0),
         child: Row(
           children: [
@@ -54,8 +53,7 @@ class TitleSection extends StatelessWidget {
             ),
           ],
         )
-      ),
-    );
+      );
   }
 }
 
@@ -98,18 +96,19 @@ class InfoSection extends StatelessWidget {
       children: [
         Expanded(
           flex: 7,
-          child: Column(
-            children: [
-              Padding(
-                padding: const EdgeInsets.all(20.0),
-                child: Expanded(
+          child: SingleChildScrollView(
+            scrollDirection: Axis.vertical,
+            child: Column(
+              children: [
+                Padding(
+                  padding: const EdgeInsets.all(20.0),
                   child: Text(
-                    description,
-                    style: const TextStyle(fontSize: 18.0),
+                      description,
+                      style: const TextStyle(fontSize: 18.0),
+                    ),
                   ),
-                ),
-              ),
-            ],
+              ],
+            ),
           ),
         ),
         Expanded(
